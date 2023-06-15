@@ -1,4 +1,4 @@
-//Author @kishimisu
+
 vec3 palette(float t)
 {
 
